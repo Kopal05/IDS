@@ -38,16 +38,14 @@ The dataset used in this project is taken from Kaggle :  https://www.kaggle.com/
 3.Random Forest
 
 ## Results
-1.![Screenshot 2023-11-07 091132](https://github.com/Boahan/CancerPrediction/assets/111555189/843b7d9c-8777-4131-ba38-97559d3e7b52)
+1.![Screenshot 2023-11-07 091132](https://github.com/Kopal05/IDS/blob/main/Main/assets/Screenshot%20(205).png)
 
 
-2.![Screenshot 2023-11-07 091156](https://github.com/Boahan/CancerPrediction/assets/111555189/c8359d17-544a-4676-819d-e1ac3522f8cf)
+2.![Screenshot 2023-11-07 091156](https://github.com/Kopal05/IDS/blob/main/Main/assets/Screenshot%20(206).png)
 
 
-3.![Screenshot 2023-11-07 091209](https://github.com/Boahan/CancerPrediction/assets/111555189/58527692-e2f9-4e70-a026-819e4ca01ebd)
+3.![Screenshot 2023-11-07 091209](https://github.com/Kopal05/IDS/blob/main/Main/assets/Screenshot%20(207).png)
 
-
-4.![Screenshot 2023-11-07 091240](https://github.com/Boahan/CancerPrediction/assets/111555189/a78c644d-8bc7-4a2c-a67a-bbefdc9f0068)
 
 
 
