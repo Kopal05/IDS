@@ -33,9 +33,9 @@ The dataset used in this project is taken from Kaggle :  https://www.kaggle.com/
 
 ## Algorithms
 
-1.Linear Regression
-2.Decision Tree
-3.Random Forest
+1.Logistic Regression
+2.Decision Tree Classifier
+3.K Neighbour Classifier
 
 ## Results
 1.![Screenshot 2023-11-07 091132](https://github.com/Kopal05/IDS/blob/main/Main/assets/Screenshot%20(205).png)
